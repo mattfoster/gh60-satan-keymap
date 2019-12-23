@@ -7,6 +7,10 @@ To do that, I had to tweak the layout because it was configured to ignore the
 code from the pad immediately to the right of the left shift. That's why this
 layout has a `satan.h`.
 
+## Show me
+
+![](layout.jpg)
+
 ## Why?
 
 I like 60% keyboards, but I also like to be able to type tildes and backticks.
